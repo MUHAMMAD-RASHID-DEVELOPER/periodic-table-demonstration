@@ -1,0 +1,297 @@
+body{
+    background-color: rgb(248, 244, 238);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#title{
+    font-size: 90px;
+    text-align: center;
+    text-shadow:2px 2px 5px       black;
+    font-style: oblique;
+    color: crimson;
+    
+    position: absolute;
+    left: 235px;
+    top: 100px;
+    border: 3px double red;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+#bottom{
+    background-color: rgb(235, 200, 158);
+    border-top: burlywood;
+    position: absolute;
+    bottom: 0px;
+    height: 30px;
+    width: 1260px;
+}
+#table{
+ font-family: sans-serif;
+ position: absolute;
+ left: 90px;
+ top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%)
+}
+
+#a{
+    background-color: rgb(0, 255, 213);
+
+}
+
+#b{
+    background-color: rgb(0, 255, 213);
+
+}
+
+div.box{
+    width: 60px;
+    height: 60px;
+    border-radius: 7px;
+}
+h1#name{
+    font-family: monospace;
+    font-size: 30px;
+    position: relative;
+    top:15px;
+    left: 15px;   
+}
+h3#value{
+    color: black;
+    position: relative;
+    left: 30px;
+    bottom: 38px;
+}
+#b{
+    display: block;
+}
+/* #n{
+    display: inline-block;
+} */
+
+#box3{
+    position: absolute;
+    left:70px;
+    top: 0px;
+}
+#box4{
+    position: absolute;
+    left:140px;
+    top: 0px;
+}
+#box5{
+    position: absolute;
+    left:210px;
+    top: 0px;
+}
+#box6{
+    position: absolute;
+    left:280px;
+    top: 0px;
+}
+#box7{
+    position: absolute;
+    left:350px;
+    top: 0px;
+}
+#box8{
+    position: absolute;
+    left:420px;
+    top: 0px;
+}
+#box9{
+    position: absolute;
+    left:490px;
+    top: 0px;
+}
+#box10{
+    position: absolute;
+    left:560px;
+    top: 0px;
+}
+#box11{
+    position: absolute;
+    left:630px;
+    top: 0px;
+}
+#box12{
+    position: absolute;
+    left:700px;
+    top: 0px;
+}
+#box13{
+    position: absolute;
+    left:770px;
+    top: 0px;
+}
+#box14{
+    position: absolute;
+    left:840px;
+    top: 0px;
+}
+#box15{
+    position: absolute;
+    left:910px;
+    top: 0px;
+}
+#box16{
+    position: absolute;
+    left:980px;
+    top: 0px;
+}
+#box17{
+    position: absolute;
+    left:1050px;
+    top: 0px;
+}
+#box18{
+    position: absolute;
+    left:1120px;
+    top: 0px;
+}
+#box19{
+    position: absolute;
+   left: 1190px;
+    top: 0px;
+}
+
+
+
+}
+#spe{
+    position: absolute;
+    bottom: 110px;
+}
+#sp{
+    position: absolute;
+    left: 30px;
+    bottom: 140px;
+}
+ #spee{
+     position: absolute;
+     bottom: 30px;
+ }
+ #spp{
+     position: absolute;
+     left: 20px;
+     bottom: 60px;
+ }
+ #all{
+     position: absolute;
+     left: 20px;
+     top: 100px;
+ }
+
+
+
+
+
+
+ #boxa{
+     position: absolute;
+     top: 700px;
+     left: 20px;
+ }
+ #boxb{
+    position: absolute;
+    top: 700px;
+    left: 90px;
+}
+#boxc{
+    position: absolute;
+    top: 700px;
+    left: 160px;
+}
+#boxd{
+    position: absolute;
+    top: 700px;
+    left: 230px;
+}
+#boxe{
+    position: absolute;
+    top: 700px;
+    left: 300px;
+}
+#boxf{
+    position: absolute;
+    top: 700px;
+    left: 370px;
+}
+#boxg{
+    position: absolute;
+    top: 700px;
+    left: 440px;
+}
+#boxh{
+    position: absolute;
+    top: 700px;
+    left: 510px;
+}
+#boxi{
+    position: absolute;
+    top: 700px;
+    left: 580px;
+}
+#boxj{
+    position: absolute;
+    top: 700px;
+    left: 650px;
+}
+#boxk{
+    position: absolute;
+    top: 700px;
+    left: 720px;
+}
+#boxl{
+    position: absolute;
+    top: 700px;
+    left: 790px;
+}
+#boxm{
+    position: absolute;
+    top: 700px;
+    left: 860px;
+}
+#boxn{
+    position: absolute;
+    top: 700px;
+    left: 930px;
+}
+#boxo{
+    position: absolute;
+    top: 700px;
+    left: 1000px;
+}
+
+
+#c{
+    background-color: coral;
+    font-size: 10px;}
+    #spe{
+        position: absolute;
+        top: 420px;
+    }
+#lr{
+    position: absolute;
+    top: 70px;
+    left: 140px;
+}
+#la{
+    position: absolute;
+    left: 140px;
+}
+#z{
+    background-color: coral;
+}
+#y{
+    
+    background-color: lightcoral;
+}
+#x{
+    font-size: 10px;
+    background-color: lightcoral;
+}
